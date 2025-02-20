@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CajeroAutomatico", "CajeroAutomatico\CajeroAutomatico.csproj", "{398BD322-F1B6-43CB-8A11-F21F91DE73F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{B6308B28-E2F9-478E-9DA0-11DCE5D22DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398BD322-F1B6-43CB-8A11-F21F91DE73F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398BD322-F1B6-43CB-8A11-F21F91DE73F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398BD322-F1B6-43CB-8A11-F21F91DE73F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398BD322-F1B6-43CB-8A11-F21F91DE73F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6308B28-E2F9-478E-9DA0-11DCE5D22DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6308B28-E2F9-478E-9DA0-11DCE5D22DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6308B28-E2F9-478E-9DA0-11DCE5D22DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6308B28-E2F9-478E-9DA0-11DCE5D22DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62A5AB4C-CC85-4FDB-B6EF-D9D1640C83B9}
+	EndGlobalSection
+EndGlobal
